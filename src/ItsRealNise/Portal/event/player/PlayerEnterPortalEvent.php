@@ -10,7 +10,7 @@ use ItsRealNise\Portal\event\DimensionPortalsEvent;
 
 /**
  * Class PlayerEnterPortalEvent
- * @package Xenophilicy\TableSpoon\event\player
+ * @package ItsRealNise\Portal\event\player
  */
 class PlayerEnterPortalEvent extends DimensionPortalsEvent implements Cancellable {
     
