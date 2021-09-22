@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace YaN\Portal;
+namespace ItsRealNise\Portal;
 
 use pocketmine\block\Air;
 use pocketmine\block\Block;
@@ -16,12 +16,12 @@ use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\nbt\tag\ListTag;
 use pocketmine\network\mcpe\protocol\types\DimensionIds;
 use pocketmine\utils\Color;
-use YaN\Portal\block\Obsidian;
-use YaN\Portal\block\Portal;
+use ItsRealNise\Portal\block\Obsidian;
+use ItsRealNise\Portal\block\Portal;
 
 /**
  * Class Utils
- * @package YaN\Portal
+ * @package ItsRealNise\Portal
  */
 class Utils {
     
