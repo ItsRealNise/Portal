@@ -30,7 +30,7 @@ use pocketmine\level\biome\Biome;
 
 /**
  * Class EnderBiome
- * @package Xenophilicy\TableSpoon\level\generator\ender\biome
+ * @package ItsRealNise\Portala\level\generator\ender\biome
  */
 class EnderBiome extends Biome {
     
