@@ -1,21 +1,21 @@
 <?php
 declare(strict_types=1);
 
-namespace YaN\Portal;
+namespace ItsRealNise\Portal;
 
 use pocketmine\level\Level;
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
-use YaN\Portal\block\BlockManager;
-use YaN\Portal\block\multiblock\MultiBlockFactory;
-use YaN\Portal\player\PlayerSession;
-use YaN\Portal\player\PlayerSessionManager;
-use YaN\Portal\task\DelayedLevelLoadTask;
+use ItsRealNise\Portal\block\BlockManager;
+use ItsRealNise\Portal\block\multiblock\MultiBlockFactory;
+use ItsRealNise\Portal\player\PlayerSession;
+use ItsRealNise\Portal\player\PlayerSessionManager;
+use ItsRealNise\Portal\task\DelayedLevelLoadTask;
 
 /**
  * Class TableSpoon
- * @package YaN\Portal
+ * @package ItsRealNise\Portal
  */
 class TableSpoon extends PluginBase {
     
