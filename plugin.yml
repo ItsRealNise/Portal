@@ -1,0 +1,6 @@
+name: Portal
+version: 1.0.0
+api: 3.0.0
+main: YaN\Portal\TableSpoon
+author: YaN
+description: Working portal fork TableSpoon
