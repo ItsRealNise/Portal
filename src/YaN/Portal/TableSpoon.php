@@ -15,7 +15,7 @@ use YaN\Portal\task\DelayedLevelLoadTask;
 
 /**
  * Class TableSpoon
- * @package YaN
+ * @package YaN\Portal
  */
 class TableSpoon extends PluginBase {
     
