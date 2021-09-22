@@ -24,17 +24,17 @@
 
 declare(strict_types=1);
 
-namespace YaN\level\generator\ender;
+namespace ItsRealNise\Portal\level\generator\ender;
 
 use pocketmine\block\Block;
 use pocketmine\level\{ChunkManager, generator\Generator, generator\noise\Simplex, generator\populator\Populator};
 use pocketmine\math\Vector3 as Vector3;
 use pocketmine\utils\Random;
-use YaN\level\generator\{biome\Biome, ender\populator\EnderPilar};
+use ItsRealNise\Portal\level\generator\{biome\Biome, ender\populator\EnderPilar};
 
 /**
  * Class Ender
- * @package YaN\level\generator\ender
+ * @package ItsRealNise\Portal\level\generator\ender
  */
 class Ender extends Generator {
     
