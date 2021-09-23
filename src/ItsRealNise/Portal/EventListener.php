@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 // FYI: Event Priorities work this way: LOWEST -> LOW -> NORMAL -> HIGH -> HIGHEST -> MONITOR
 
-namespace ItzRealNise\Portal;
+namespace ItsRealNise\Portal;
 
 use pocketmine\block\Block;
 use pocketmine\entity\Entity;
