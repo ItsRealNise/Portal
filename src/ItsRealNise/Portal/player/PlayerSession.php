@@ -14,7 +14,7 @@ use ItsRealNise\Portal\event\player\PlayerPortalTeleportEvent;
 use ItsRealNise\Portal\TableSpoon;
 use ItsRealNise\Portal\Utils;
 
- * Class Session
+ /** Class Session
  * @package ItsRealNise\Portal\Tablespon
  */
 class PlayerSession {
