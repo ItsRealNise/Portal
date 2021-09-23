@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace ItsRealNise\player;
+namespace ItsRealNise\Portal\player;
 
 use pocketmine\Player;
 use ItsRealNise\Portal\TableSpoon;
